@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.18.179:8080/mtqp.ipa</string>
+					<string>https://github.com/lazylennon/qipai-game/blob/master/mtqp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.18.179:8080/Icon.png</string>
+					<string>https://github.com/lazylennon/qipai-game/blob/master/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.18.179:8080/Icon.png</string>
+					<string>https://github.com/lazylennon/qipai-game/blob/master/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
